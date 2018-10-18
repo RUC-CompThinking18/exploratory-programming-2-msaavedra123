@@ -10,4 +10,3 @@ def positive(sequence):
 y = [3, -5, 0, -5, -6, -3, 2, -6, 8, -9, -3, -1, -5]    #3 Positive numbers
 positive(y)
 positive('[-1, -2, 4]') 		#String, should print type error message
-#Please work
